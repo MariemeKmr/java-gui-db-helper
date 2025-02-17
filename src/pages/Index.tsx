@@ -75,7 +75,8 @@ const Index = () => {
               <Search className="w-4 h-4 mr-2" />
               Rechercher
             </Button>
-          </div>
+          </form>
+        </div>
 
         {/* Quick Stats */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
